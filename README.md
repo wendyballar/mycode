@@ -1,2 +1,2 @@
 # mycode
-Learning code
+Brand Spanking New - Learning code
